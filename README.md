@@ -10,6 +10,7 @@
 
 👨‍💻 Resultado Final:
 
+<img width="1439" alt="Captura de Pantalla 2022-09-15 a las 14 59 46" src="https://user-images.githubusercontent.com/53755601/190410409-9ab3830d-a36c-4de3-8afc-7c153872af57.png">
 
 
 - [x] Elaborar HTML.
