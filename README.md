@@ -12,6 +12,8 @@ _Version Escritorio:_
 
 _Version Movil:_
 
+<img width="646" alt="Captura de Pantalla 2022-09-17 a las 19 18 16" src="https://user-images.githubusercontent.com/53755601/190868902-af13a49d-a821-4078-989b-6a41c1bb4e18.png">
+
 ## 👨‍💻 Resultado Final:
 
 _Version Escritorio:_
@@ -19,6 +21,8 @@ _Version Escritorio:_
 <img width="1439" alt="Captura de Pantalla 2022-09-15 a las 14 59 46" src="https://user-images.githubusercontent.com/53755601/190410409-9ab3830d-a36c-4de3-8afc-7c153872af57.png">
 
 _Version Movil:_
+
+<img width="649" alt="Captura de Pantalla 2022-09-17 a las 19 18 43" src="https://user-images.githubusercontent.com/53755601/190868908-2f5c4a2e-646d-4920-b12b-91f370ff0c39.png">
 
 ### Tareas:
 - [x] Elaborar HTML.
