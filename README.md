@@ -12,7 +12,7 @@ _Version Escritorio:_
 
 _Version Movil:_
 
-<img width="646" alt="Captura de Pantalla 2022-09-17 a las 19 18 16" src="https://user-images.githubusercontent.com/53755601/190868902-af13a49d-a821-4078-989b-6a41c1bb4e18.png">
+<img width="650" alt="Captura de Pantalla 2022-09-17 a las 19 25 03" src="https://user-images.githubusercontent.com/53755601/190869131-85e07b22-3c78-43b2-bb09-d8ca2b7d8610.png">
 
 ## 👨‍💻 Resultado Final:
 
